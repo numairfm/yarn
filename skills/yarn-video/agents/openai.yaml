@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yarn Video"
+  short_description: "Submit and track Yarn video jobs"
+  default_prompt: "Use $yarn-video to generate a video and return its completed output URL."

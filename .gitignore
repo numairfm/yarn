@@ -1,0 +1,39 @@
+.env
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+output/
+.cache/
+.next/
+*.part
+
+# Media files (video, audio, images)
+*.mp4
+*.webm
+*.mov
+*.mp3
+*.mkv
+*.wav
+*.avi
+*.flv
+*.m4a
+*.ogg
+*.opus
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+
+# Generation outputs
+assets/
+output*/
+**/output/
+**/generations/
+**/jobs/
+
+# Tool outputs
+graphify-out/
+.opencode/node_modules/
